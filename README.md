@@ -28,3 +28,5 @@
     ```
     11.2. При повторном нажатии на клавиатуре на букву *L (Д)* модальное окно закрывается
 	
+
+	[Форма для загрузки работы(архив)](https://docs.google.com/forms/d/e/1FAIpQLSf8QgxIL49uyG_-9UOBbVEk7dA3aU6zm7OU-4w_MasD95OHeQ/viewform)
